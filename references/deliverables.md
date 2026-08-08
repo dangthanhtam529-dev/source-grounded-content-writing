@@ -10,6 +10,8 @@ Include only reader-facing material:
 
 Keep academic caveats proportionate: include the limitations needed to prevent misleading interpretation, but do not turn the draft into a methods appendix.
 
+介绍与举例段落在正文里以“引出结论”为唯一职责。写完自查：这段删掉后，后面的表达与结论是否仍然成立？如果成立，说明它在“陈列”而非“引出”，重写或删除。
+
 ## Internal fact brief: `<slug>-fact-brief.md`
 
 Use this concise structure:
@@ -33,6 +35,7 @@ Use this concise structure:
 |---|---|---|---|---|
 
 类型仅可为：事实 / 解释 / 延伸 / 待核实。
+对可能形成结论的事实，标注其来源结论状态：来源明确结论 / 来源部分证实 / 来源尚无定论。
 
 ## 4. 文章结构
 | 部分 | 段落职责 | 新信息 | 依据 |
@@ -42,6 +45,8 @@ Use this concise structure:
 - 不可写成的结论：
 - 研究或来源限制：
 - 尚待核实：
+
+结论分级写入本部分：来源明确结论的，正文可用明确语气；来源标注“未证实 / 尚无定论 / 有争议”的，正文只能以“据…”“目前尚无定论”等限定语气出现，不得升格为事实。
 
 ## 6. 可衍生内容
 - 标题备选：
