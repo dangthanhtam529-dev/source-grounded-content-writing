@@ -1,0 +1,4 @@
+interface:
+  display_name: "证据驱动内容写作"
+  short_description: "Grounded Chinese content with a publishable draft and fact brief"
+  default_prompt: "Use $source-grounded-content-writing to turn these sources into a grounded, readable article."
